@@ -27,6 +27,7 @@
 				<configuration>
 				<cloudHubDeployment>
 					<username>arun_eswaran666</username>
+					<objectStoreV2>true</objectStoreV2>
 					<password>Arun@1993</password>
 					<environment>Sandbox</environment>
 					<workers>1</workers>
